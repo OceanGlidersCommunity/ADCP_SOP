@@ -1,4 +1,4 @@
-name: oxygen_sop
+name: adcp_sop
 dependencies:
   - pip
   - pip:
