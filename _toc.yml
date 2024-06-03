@@ -10,7 +10,6 @@ chapters:
 - file: sections/adcp_mission_execution
 - file: sections/adcp_rtqc
 - file: sections/adcp_post_recovery
-- file: sections/adcp_dmqc
 - file: sections/data_sharing
 - file: sections/adcp_references
 - file: sections/acknowledgement
