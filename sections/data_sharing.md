@@ -1,4 +1,3 @@
-(data-sharing)=
 # Data sharing
 
 OceanGliders strongly encourages all glider operators to share their data to the public and provide open access both in real time and delayed mode. 
