@@ -17,7 +17,7 @@ Co-authors are encouraged to periodically review GitHub activity as co-authorshi
 - change of uncertainties ranges
 - concrete suggestions i.e. related to correction of methods
 
-## How to contribute
+### How to contribute
 Please read our [Code of Conduct](https://github.com/OceanGlidersCommunity/OceanGliders/blob/main/CODE_OF_CONDUCT.md) before contributing.
 
 Important: We aim to have an organized discussion. Thus before adding new comments below sections, please always look at [open issues](https://github.com/OceanGlidersCommunity/ADCP_SOP/issues) and join the ongoing dicussion there.
