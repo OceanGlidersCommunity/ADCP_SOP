@@ -1,3 +1,5 @@
+:orphan:
+
 ## How we make decisions on relevant content changes?
 
 Every issue will be reviewed by at least one of the lead authors. 
