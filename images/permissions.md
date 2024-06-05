@@ -1,3 +1,5 @@
+:orphan:
+
 # Details for attribution and permission for each of the images
 
 - `100-0-calibration.png` - Tania Morales
