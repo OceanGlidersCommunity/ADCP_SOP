@@ -1,2 +1,1 @@
-(mission-execution)=
 # Missions execution
